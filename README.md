@@ -1,6 +1,5 @@
 # Selector de Eventos
-Selector de eventos en PHP para una URL de datos publis con la puedes crear una sencilla web donde ver los eventos y filtrarlos.
-
+Selector de eventos en PHP para una URL de datos publicos con la que puedes crear una sencilla web donde ver los eventos y filtrarlos.
 
 La informacion se puede obtener de: http://opendata.euskadi.eus/catalogo/-/kulturklik-agenda-cultural/ para el ejemplo se usa en su version JSON por lo ligero que es.
 
